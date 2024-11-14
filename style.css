@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin-bottom: 11px;
+}
+
+.jumbotron {
+    background-color: #6d63c9;
+    text-align: center;
+}
+p {text-align: justify;
+    margin: 0;
+}
+footer {
+    text-align: center;
+    padding: 11px 0;
+    background-color: #8a99a9;
+    color: #f0e8e8;
+    margin-top: 20px;
+}
+footer p {
+    margin: 0;
+}
+
+
+
+
+
+
+
